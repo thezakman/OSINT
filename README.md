@@ -1,4 +1,4 @@
 # OSINT 
     Olha Só Intel No Terminal
     
-    CLI Dorking Tool
+    Script para acelerar o processo de G-Dorking
